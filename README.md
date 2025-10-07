@@ -1,6 +1,4 @@
-# 🏨 Aspect Based Sentiment Analysis in Ho Chi Minh City 1
-Hotel Reviews using Aspect-Conditioned BiLSTM with 2
-Cross-Aspect Attention and Ordinal Regression
+# 🏨 Aspect Based Sentiment Analysis in Ho Chi Minh City Hotel Reviews using Aspect-Conditioned BiLSTM with Cross-Aspect Attention and Ordinal Regression
 
 ## 📘 Understanding user sentiments in Vietnamese tourism reviews  
 
